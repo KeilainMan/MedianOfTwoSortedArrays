@@ -1,8 +1,8 @@
 
 
 
-const nums1 = [1,2]
-const nums2 = [15,66,78,81]
+const nums1 = [1,2,4,6,17];
+const nums2 = [15,66,78,81];
 
 console.log(medianOfTwoSortedArrays(nums1, nums2));
 
